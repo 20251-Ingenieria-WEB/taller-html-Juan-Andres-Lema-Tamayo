@@ -21,3 +21,14 @@ Pokedle es un divertido juego web inspirado en el clásico "¿Quién es ese Pok�
 ```bash
 git clone https://github.com/tu-usuario/pokedle.git
 cd pokedle
+
+## 🔓 Abrir el juego en tu navegador
+
+Abre el archivo `index.html` con tu navegador favorito (Chrome, Firefox, Edge, etc).  
+No necesitas servidores ni instalación de dependencias, todo funciona localmente.
+
+🎮 **¿Solo quieres jugar?**
+
+No necesitas clonar el repositorio ni configurar nada.  
+Solo visita 👉 [https://pokedle-sigma.vercel.app/](https://pokedle-sigma.vercel.app/) y empieza a adivinar Pokémon.  
+¡Diviértete atrapándolos todos!
