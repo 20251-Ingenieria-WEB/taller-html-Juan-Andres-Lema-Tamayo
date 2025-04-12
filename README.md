@@ -21,6 +21,7 @@ Pokedle es un divertido juego web inspirado en el clásico "¿Quién es ese Pok�
 ```bash
 git clone https://github.com/tu-usuario/pokedle.git
 cd pokedle
+```
 
 ## 🔓 Abrir el juego en tu navegador
 
