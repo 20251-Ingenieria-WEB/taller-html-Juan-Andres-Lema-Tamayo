@@ -33,3 +33,11 @@ No necesitas servidores ni instalación de dependencias, todo funciona localment
 No necesitas clonar el repositorio ni configurar nada.  
 Solo visita 👉 [https://pokedle-sigma.vercel.app/](https://pokedle-sigma.vercel.app/) y empieza a adivinar Pokémon.  
 ¡Diviértete atrapándolos todos!
+
+## 📄 Documentación del Proyecto
+
+Si deseas conocer en detalle el diseño, la estructura, los modos de juego y las decisiones clave de desarrollo detrás de **Pokedle**, puedes consultar el documento completo en el siguiente enlace:
+
+🔗 **[Ver documentación del proyecto (PDF)](https://drive.google.com/file/d/1bJ4jETXhn77ggblXU9qOOs1nn5XaVK4_/view?usp=sharing)**
+
+
